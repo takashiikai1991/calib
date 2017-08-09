@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\takashi\documents\visual studio 2017\projects\calibration\calibration\myrandom.h(3): error C2757: 'rand': この名前のシンボルは既に存在します。この名前を名前空間名として使用することはできません。
